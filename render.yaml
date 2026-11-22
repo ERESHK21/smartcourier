@@ -10,7 +10,7 @@ services:
       - key: PORT
         value: 8080
       - key: APP_CORS_ALLOWED_ORIGINS
-        value: https://smartcourier.vercel.app
+        value: https://smartcourier-jet.vercel.app
       - key: JAVA_OPTS
         value: -XX:MaxRAMPercentage=70
       - key: APP_JWT_SECRET
