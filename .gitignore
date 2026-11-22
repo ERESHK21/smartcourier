@@ -1,0 +1,28 @@
+# Build output
+target/
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Local runtime data
+data/
+uploads/
+*.mv.db
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
+.settings/
+.vscode/
+.classpath
+.project
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
